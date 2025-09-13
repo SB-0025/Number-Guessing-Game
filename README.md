@@ -47,7 +47,7 @@ You can also check it directly via the **Live Demo** link below.
 ---
 
 ## 🌐 Live Demo
-🔗 [View Demo](#)  
+🔗 [View Demo](https://sb-0025.github.io/Number-Guessing-Game/)  
 
 ---
 
